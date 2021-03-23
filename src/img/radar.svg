@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1123 1374 52 47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #39a8ef;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="icon-radar-simple" transform="translate(1123 1374)">
+    <g id="Funktioner" transform="translate(1 1)">
+      <g id="PRIS-Copy-3">
+        <g id="Group-3" transform="translate(0)">
+          <path id="Stroke-972" class="cls-1" d="M22.833,19.5A3.333,3.333,0,1,1,19.5,22.833,3.333,3.333,0,0,1,22.833,19.5Z" transform="translate(2.167 2.167)"/>
+          <path id="Line" class="cls-1" d="M24.375,25.125l12.5,16.667" transform="translate(2.708 2.792)"/>
+          <path id="Stroke-973" class="cls-1" d="M40,45a25,25,0,1,0-30,0"/>
+          <path id="Stroke-974" class="cls-1" d="M32.408,35.238a14.167,14.167,0,1,0-16.982,0" transform="translate(1.083 1.083)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
